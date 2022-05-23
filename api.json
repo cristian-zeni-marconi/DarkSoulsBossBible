@@ -1,17 +1,19 @@
-"games":[
-  {"name":"Dark Souls Remastered", "index": "dark_souls_remastered"},
-  {"name":"Dark Souls II", "index": "dark_souls_2"},
-  {"name":"Dark Souls III", "index": "dark_souls_3"},
-  {"name":"Bloodborne", "index": "bloodborne"},
-  {"name":"Sekiro", "index": "sekiro"},
-  {"name":"Elden Ring", "index": "elden_ring"},
-  {"name":"Genshin Impact", "index":"genshin_impact"},
-  {"name":"League of Legends", "index":"league_of_legends"},
-]
+{
+  "games":[
+    {"name":"Dark Souls Remastered", "index": "dark_souls_remastered"},
+    {"name":"Dark Souls II", "index": "dark_souls_2"},
+    {"name":"Dark Souls III", "index": "dark_souls_3"},
+    {"name":"Bloodborne", "index": "bloodborne"},
+    {"name":"Sekiro", "index": "sekiro"},
+    {"name":"Elden Ring", "index": "elden_ring"},
+    {"name":"Genshin Impact", "index":"genshin_impact"},
+    {"name":"League of Legends", "index":"league_of_legends"}
+  ],
 
-"dark_souls_remastered"{
-  "name": "Dark Souls Remastered",
-  "boss":[
-    {"name": "Gwyn", "index":"gwyn"}
-  ]
+  "dark_souls_remastered":{
+    "name": "Dark Souls Remastered",
+    "boss":[
+      {"name": "Gwyn", "index":"gwyn"}
+    ]
+  }
 }
