@@ -6,7 +6,7 @@
   {"name":"Sekiro", "index": "sekiro"},
   {"name":"Elden Ring", "index": "elden_ring"},
   {"name":"Genshin Impact", "index":"genshin_impact"},
-  {"name":"League of Legends", "index":"league_of_legends"}
+  {"name":"League of Legends", "index":"league_of_legends"},
 ]
 
 "dark_souls_remastered"{
