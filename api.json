@@ -6,3 +6,10 @@
   {"name":"Sekiro", "index": "sekiro"}
   {"name":"Elden Ring", "index": "elden_ring"}
 ]
+
+"dark_souls_remastered"{
+  "name": "Dark Souls Remastered",
+  "boss":[
+    {"name": "Gwyn", "index":"gwyn"}
+  ]
+}
